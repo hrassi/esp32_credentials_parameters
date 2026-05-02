@@ -1,3 +1,4 @@
+# By HOUSSAM RASSI 
 # params_sever.py is called from boot.py when boot is pushed at startup or if config.txt dont exist
 # params_server.py launch a web server to store or change values inside config.txt
 # Open browser and go to: http://192.168.4.1
