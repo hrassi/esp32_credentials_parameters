@@ -1,3 +1,4 @@
+# Hrassi Product By Houssam Rassi
 # params.py is used to read or write variables and credentials to config.txt file
 # usage: from config.params import read, write
 #        ssid = read("wifi_ssid") # read the value of the wifi_ssid variable inside the config.txt
