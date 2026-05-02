@@ -1,7 +1,8 @@
 # ESP32 Params System — Usage Guide
 
 ## What this is
-A reusable MicroPython module for ESP32 that lets you store and edit
+A reusable MicroPython module for ESP32 Ceated by HRASSI
+that lets you store and edit
 project parameters (wifi credentials, settings, variables...) in a
 simple text file, editable from your phone via a web interface.
 
