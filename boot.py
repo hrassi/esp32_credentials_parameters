@@ -1,3 +1,4 @@
+# Hrassi product
 # this boot.py start fast blink the onboard led for 2 sec
 # during theses 2 sec if boot buttton is pushed or if the file
 # /config/config.txt does not exist it launch the params_server.py
